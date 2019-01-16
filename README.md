@@ -12,4 +12,4 @@ Implemented the following techniques on various types of mazes, along with other
 3. Uniform cost Search
 4. A* search
 
-Please use python2.7.
+Please use Python 2.7.
