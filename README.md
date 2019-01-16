@@ -1,8 +1,7 @@
 # The-searching-pacman
 The searching pacman project performed as part of CSE 537 Artificial Intelligence Fall 2018.
 
-Pac-man's got them searchin' blues
-
+Pac-man's got them searchin' blues  
 Searchin' for dots when there ain't no clues
 
 
