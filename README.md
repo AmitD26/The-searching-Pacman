@@ -11,3 +11,5 @@ Implemented the following techniques on various types of mazes, along with other
 2. Breadth First Search
 3. Uniform cost Search
 4. A* search
+
+Please use python2.7.
