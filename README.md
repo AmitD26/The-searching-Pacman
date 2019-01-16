@@ -13,3 +13,4 @@ Implemented the following techniques on various types of mazes, along with other
 4. A* search
 
 Please use Python 2.7.
+Q8 in the autograder output wasn't a part of the assignment.
